@@ -1,0 +1,31 @@
+GIT:
+====
+1. git  init
+2. git add .
+3. git commit -m '''message''
+for first time users,
+       git config --global user.name ""githubUsername"
+       git config --global user.email ''githubEmail''
+
+Till now ,local respository is created.
+
+we need one platform to save,share and run our code
+
+we have so many options like GitHub,gitlab,bitbucket,etc...,
+
+git hub is an online repository management system used to save ,share and run our code
+
+GitHub commands:
+===============
+-- git remote add origin ''link''
+-- git push -u origin main
+
+Difference between git and GitHub
+========================
+git is a distributed version control system and GitHub is online respository system
+
+git needs to downloaded and installed. GitHub needs an account
+
+git is provided by oracle.github is provided by microsoft
+
+
