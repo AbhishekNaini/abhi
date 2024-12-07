@@ -19,5 +19,4 @@ git init
 git init -b main #branch
 git add . or git add <fileName>
 git log
-git commit -m "message"
-git log
+git commit -a -m "message"git commit -m "message"
