@@ -1,0 +1,21 @@
+GIT & GITHUB
+============
+GIT=>distributed version control system 
+VERSION CONTROL=>to make multiple updates to project 
+1.version control system(VCS)=>saving project files in local system Eg:- main file/version1,version2,version3,final version 
+2.centralized version control system(CVCS)=> multiple developer can access but if server done the data will gone Eg:- commit,update
+3.DISTRIBUTED VERSION CONTROL SYSTEM(DVCS)=>local storange & repository same as vcs but there we have local copy and updated copy changes copy commit copy all versions will have Eg:- update,commit,push,pull
+  
+git username=>abhishek
+git Email=>abhiram991244@gmail.com
+git password=>abhi0411
+
+create differtent versions ,committing
+public repository
+
+git --version
+git status
+git init
+git init -b main #branch
+git add . or git add <fileName>
+git log
